@@ -1,2 +1,5 @@
 # Intro-to-GitHub
-A simple repository created to practice Git and GitHub basics.
+
+This repository was created as part of an activity to practice the basic concepts of Git and GitHub.
+
+It contains sample files used to demonstrate repository management, version control, commits, and pushing changes to GitHub.
